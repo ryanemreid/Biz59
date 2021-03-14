@@ -3,3 +3,5 @@
 Hello. This is my first time using GitHub.
 
 I am editing the README file via GitHub.
+
+This is a new feature.
